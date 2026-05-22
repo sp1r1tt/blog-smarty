@@ -1,0 +1,7 @@
+vendor/
+cache/
+templates_c/
+storage/
+.git/
+.idea/
+
